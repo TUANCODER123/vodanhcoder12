@@ -1,0 +1,11 @@
+*{
+     margin: 0px;
+}
+ul {
+     display: flex;
+     justify-content: space-around;
+}
+ul li{
+     margin-left: 10px ;
+     margin-top: 10px;
+}
